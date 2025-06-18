@@ -1,4 +1,6 @@
-Text File Manipulator
+**Text File Manipulator**
+
+
 Text File Manipulator is a command-line application built in Java that allows you to easily edit and manipulate text files through a series of simple commands.
 
 It is designed to provide basic text editing functionality from the terminal — no need for a full text editor! Ideal for automating text file operations or quick edits.
